@@ -1,5 +1,4 @@
 flask
 pandas
 numpy
-scikit-learn
-mlflow
+kaggle
